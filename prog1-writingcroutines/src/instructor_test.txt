@@ -1,0 +1,78 @@
+///IS PRIME TESTS///
+Neg Not Prime Test:
+	is_prime(-1)->(0) : passed.
+0 Not Prime Test:
+	is_prime(0)->(0) : passed.
+1 Not Prime Test:
+	is_prime(1)->(0) : passed.
+2 Prime Test:
+	is_prime(2)->(1) : passed.
+7 Prime Test:
+	is_prime(7)->(1) : passed.
+15 Not Prime Test:
+	is_prime(15)->(0) : passed.
+Total Failed: 0
+
+
+///PRINT PRIME TESTS///
+Expecting: (2,3,5,7,11,13,17,19)
+Actual Output: 
+2 3 5 7 11 13 17 19 
+
+
+///COMPUTE AVG TESTS///
+Int Result Avg Test:
+	compute_average({1 -> 3},3)->(2.000000) : passed.
+Zero Arr Avg Test:
+	compute_average({0 -> 0},1)->(0.000000) : passed.
+Int Result Avg Test:
+	compute_average({-1 -> -6},3)->(-1.333333) : passed.
+Total Failed: 0
+
+
+///SERIES SUM TESTS///
+Pos Sum Test:
+	series_sum(0,7)->28) : passed.
+Neg Sum Test:
+	series_sum(-2,2)->0) : passed.
+One Value Test:
+	series_sum(2,2)->2) : passed.
+Total Failed: 0
+
+
+///PRINT SERIES ENDPOINTS TEST///
+2:None
+3: 1->2
+0 + 1 + 2 = 3 
+1 + 2 = 3 
+9: 2->4, 4->5
+2 + 3 + 4 = 9 
+4 + 5 = 9 
+15: 1->5, 4->6, 7->8
+0 + 1 + 2 + 3 + 4 + 5 = 15 
+1 + 2 + 3 + 4 + 5 = 15 
+4 + 5 + 6 = 15 
+7 + 8 = 15 
+
+
+///COMPUTE DISC TESTS///
+Neg Disc Test:
+	compute_discriminant(1,2,3)->(-8) : passed.
+Pos Disc Test:
+	compute_discriminant(-1,5,3)->(37) : passed.
+Zero Disc Test:
+	compute_discriminant(1,2,1)->(0) : passed.
+Total Failed: 0
+
+
+///PRINT QUADRATIC TESTS///
+not a quadratic->
+	Solution 1: 0.000000 
+Solution 2: -0.000000 
+no real solution->
+	no real solution 
+-0.541381 5.541381->
+	Solution 1: -0.541381 
+Solution 2: 5.541381 
+-1.000000
+	Solution: -1.000000 
