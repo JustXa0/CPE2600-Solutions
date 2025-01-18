@@ -1,5 +1,5 @@
 # CPE2600-Solutions
-This repository acts as a public space to store the solutions to labs and homework problems in CPE2600 - Systems Programming. Each folder within the code folder will contain the given README for the problem, my solutions, and my thought process for the assignment.
+This repository acts as a public space to store the solutions to labs and homework problems in CPE2600 - Systems Programming. Each folder within the code folder will contain the given README for the problem, my solutions, and my thought process for the assignment, titled solution.md.
 
 ## From the listing on MSOE's page:
 
