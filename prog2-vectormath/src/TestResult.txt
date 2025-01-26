@@ -1,0 +1,142 @@
+
+input1.txt->result1.txt
+2 1 3
+2 1 4
+2
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is: 						      |	The result is:
+0 -1 								0 -1 
+
+input2.txt->result2.txt
+2 1 3
+2 1 4
+1
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is: 						      |	The result is:
+2 7 								2 7 
+
+input3.txt->result3.txt
+2 1 3
+2 1 4
+3
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is: 						      |	The result is:
+13 								13 
+
+input4.txt->result4.txt
+3 1 100 12
+3 3 18 44
+4
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is 						      |	The result is:
+4184 -8 -282 						      |	4184 8 -282 
+
+input5.txt->result5.txt
+2 1 4
+4 1 3 -1 0
+2
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is: 						      |	The result is:
+0 1 							      |	0 0 
+
+input6.txt->result6.txt
+10 1 2 3 4 5 6 7 8 9 10
+10 3 4 5 6 7 8 9 10 11 12
+2
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is: 						      |	The result is:
+-2 -2 -2 -2 -2 -2 -2 -2 -2 -2 					-2 -2 -2 -2 -2 -2 -2 -2 -2 -2 
+
+input7.txt->result7.txt
+10 1 2 3 4 5 6 7 8 9 10
+10 3 4 5 6 7 8 9 10 11 12
+4
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is 						      |	The result is:
+-2 4 -2 32766 10 0 0 0 10 0 				      |	0 0 0 0 0 0 0 0 0 0 
+
+input8.txt->result8.txt
+10 1 2 3 4 5 6 7 8 9 10
+10 3 4 5 6 7 8 9 10 11 12
+3
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is: 						      |	The result is:
+495 								495 
+
+input9.txt->result9.txt
+100 27 84 79 88 98 90 2 60 53 15 81 66 70 75 65 70 97 29 9 10 56 93 71 86 47 83 18 97 12 29 26 55 77 43 6 34 56 100 25 61 15 85 16 9 100 16 79 63 1 16 62 82 75 57 14 20 58 60 60 25 53 1 87 53 31 31 85 96 45 99 39 77 78 87 14 43 35 46 95 15 70 27 66 46 68 59 50 13 13 49 41 43 97 65 84 89 23 10 72 15
+100 -44 -41 -48 25 64 34 67 14 6 -69 91 84 48 -87 55 -95 20 -10 53 99 11 -56 12 -7 40 41 16 34 57 -93 -54 -41 44 99 -32 17 -73 -42 73 13 75 -10 -85 86 27 46 -83 9 25 1 -6 8 -11 35 -24 44 30 -80 -44 37 -11 91 66 62 -37 56 -11 70 -55 10 7 79 -74 -55 -99 94 4 18 54 -39 32 37 -65 -57 70 -62 -22 41 86 -73 -31 46 -36 47 -2 -61 51 47 73 -97
+1
+
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is: 						      |	The result is:
+-17 43 31 113 162 124 69 74 59 -54 172 150 118 -12 120 -25 11	-17 43 31 113 162 124 69 74 59 -54 172 150 118 -12 120 -25 11
+
+input10.txt->result10.txt
+3 -6455 37292 -25531
+3 -2036 -27440 79411
+4
+
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is 						      |	The result is:
+-2034142924 564579121 253051712 			      |	-2034142924 -564579121 253051712 
+
+input11.txt->result11.txt
+3 -6455 37292 -25531
+3 -2036 -27440 79411
+1
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is: 						      |	The result is:
+-8491 9852 53880 						-8491 9852 53880 
+
+input12.txt->result12.txt
+3 -6455 37292 -25531
+3 -2036 -27440 79411
+2
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is: 						      |	The result is:
+-4419 64732 -104942 						-4419 64732 -104942 
+
+input13.txt->result13.txt
+3 -6455 37292 -25531
+3 -2036 -27440 79411
+3
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is: 						      |	The result is:
+1257374955 							1257374955 
+
+input14.txt->result14.txt
+1 0
+1 0
+3
+Enter vector A: 					      |	Enter vector A:
+Enter vector B: 					      |	Enter vector B:
+Enter in the operation to perform: 			      |	Enter the operation to perform:
+The result is: 						      |	The result is:
+0 								0 

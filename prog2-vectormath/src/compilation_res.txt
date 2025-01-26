@@ -1,0 +1,3 @@
+gcc -c -g -Wall -Werror -o main.o main.c
+gcc -c -g -Wall -Werror -o vector.o vector.c
+gcc -o vector_math main.o vector.o
